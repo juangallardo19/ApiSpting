@@ -2,7 +2,7 @@ package com.example.vehicleapi.exception;
 
 public class VehicleNotFoundException extends RuntimeException {
 
-    private static final long serialVersionUID = 8745632198745632198L;
+    private static final long serialVersionUID = 874563219874563219L;
 
     public VehicleNotFoundException(String message) {
         super(message);

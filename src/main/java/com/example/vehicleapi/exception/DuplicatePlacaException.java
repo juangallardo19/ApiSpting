@@ -2,7 +2,7 @@ package com.example.vehicleapi.exception;
 
 public class DuplicatePlacaException extends RuntimeException {
 
-    private static final long serialVersionUID = 9876543210987654321L;
+    private static final long serialVersionUID = 987654321098765432L;
 
     public DuplicatePlacaException(String message) {
         super(message);
